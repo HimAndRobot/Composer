@@ -1,0 +1,15 @@
+{
+	"authors":[
+		{
+			"name": "Gean Pedro da Silva",
+			"email": "geanpn@gmail.com"								
+		}
+	],
+	"require":{
+		"php": ">=7.*"		
+	},	
+	"autoload": {
+        "psr-4": {"Acme\\": "Vendas/"}
+
+    }
+}
