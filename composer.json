@@ -1,5 +1,6 @@
 {
 	"name":"him/robot",
+	"description": "pacote de teste do himandrobot",
 	"authors":[
 		{
 			"name": "Gean Pedro da Silva",
