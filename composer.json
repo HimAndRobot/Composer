@@ -1,6 +1,8 @@
 {
 	"name":"him-and-robot/robot",
 	"description": "pacote de teste do himandrobot",
+	"type": "library",
+	"version":"1.0",
 	"authors":[
 		{
 			"name": "Gean Pedro da Silva",
