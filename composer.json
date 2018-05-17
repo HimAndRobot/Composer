@@ -9,6 +9,7 @@
 			"email": "geanpn@gmail.com"								
 		}
 	],
+	"minimin-stability": "dev",
 	"autoload": {
         "psr-4": {"Acme\\": "Vendas/"}
     }
